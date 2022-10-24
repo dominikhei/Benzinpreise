@@ -20,11 +20,11 @@ Die jeweilige Version der Frameworks, Programmiersprachen und Bibiliotheken läs
 
 ### Funktionsweise:
 
-1. [Selektieren der Daten](descriptions/Laden_der_Daten.md)
+1. [Selektieren der Daten](https://github.com/SurlaRoute14/Benzinpreise/blob/master/descriptions/Laden_der_Daten.md)
 
-2. [MySQL Datenbank:](desciptions/MySQL_Datenbank.md)
+2. [MySQL Datenbank:](https://github.com/SurlaRoute14/Benzinpreise/blob/master/descriptions/MySQL_Datenbank.md)
 
-2. [Docker & Apache Airflow:](descriptions/Airflow&Docker.md)
+2. [Docker & Apache Airflow:](https://github.com/SurlaRoute14/Benzinpreise/blob/master/descriptions/Airflow%26Docker.md)
 
 
 ## Ergebnisse:
