@@ -11,7 +11,7 @@ Aufgrund gestiegener Benzinkosten habe ich mich gefragt, in wie weit die Preise 
 - Docker
 - Apache Airflow
 
-Die jeweilige Version der Frameworks, Programmiersprachen und Bibiliotheken lässt sich in der ![requirements.txt](requirements.txt) Datei nachlesen
+Die jeweilige Version der Frameworks, Programmiersprachen und Bibiliotheken lässt sich in der [requirements.txt](requirements.txt) Datei nachlesen
 
 ### Architektur
 
@@ -20,11 +20,11 @@ Die jeweilige Version der Frameworks, Programmiersprachen und Bibiliotheken läs
 
 ### Funktionsweise:
 
-1. ![Selektieren der Daten](descriptions/Laden_der_Daten.md)
+1. [Selektieren der Daten](descriptions/Laden_der_Daten.md)
 
-2. ![MySQL Datenbank:](desciptions/MySQL_Datenbank.md)
+2. [MySQL Datenbank:](desciptions/MySQL_Datenbank.md)
 
-2. ![Docker & Apache Airflow:](descriptions/Airflow&Docker.md)
+2. [Docker & Apache Airflow:](descriptions/Airflow&Docker.md)
 
 
 ## Ergebnisse:
